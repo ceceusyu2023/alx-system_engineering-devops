@@ -1,2 +1,2 @@
 #!/bin/bash
-type : cut /etc/passwd /etc/hosts
+type : cut /etc/passwd/etc/hosts
